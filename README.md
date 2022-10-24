@@ -6,7 +6,7 @@
 
 # *Hello, world!*
 
-**Victoria Carrer** | UNA - Artes Multimediales
+**Victoria Carrer** | UNA - Artes Multimediales 2022
 
 <!---
 vickycarrer/vickycarrer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
